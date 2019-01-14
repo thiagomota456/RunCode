@@ -1,0 +1,2 @@
+Caso os arquivos aqui sejam diferentes do que esta no repositorio, add eles
+
